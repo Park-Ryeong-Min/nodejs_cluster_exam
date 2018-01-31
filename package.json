@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_cluster_exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Park-Ryeongmin",
+  "license": "ISC",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "os": "^0.1.1"
+  }
+}
